@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/BP_Paddle.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/IM_MainMenu.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/MainMenu/IM_MainMenu.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/SumoHockey/IM_SumoHockey.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/BP_SumoHockey.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/SumoHockey/IA_MovePaddle.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/SumoHockey/IA_BoostPaddle.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/BP_GameceptionPlayerController.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Levels/AirHockeyTest.umap"
 			]
 		}
 	]
