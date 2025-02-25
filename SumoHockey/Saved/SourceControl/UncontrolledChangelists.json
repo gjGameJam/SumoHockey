@@ -25,6 +25,16 @@
 				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/Widgets/WBP_MainMenu.uasset",
 				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/Widgets/WBP_Credits.uasset",
 				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/Widgets/WBP_PauseMenu.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/Hockey/IA_BoostPaddle.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/Hockey/IA_MovePaddle.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/Hockey/IM_SumoHockey.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/Sumo/IMC_Sumo.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/Sumo/IA_Push.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/Sumo/IA_TurnDirection.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/Hockey/IA_SumoPowerUp.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/Hockey/IM_Hockey.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/BP_SumoWrestler.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/BP_CameraManager.uasset",
 				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Input/IM_MainMenu.uasset",
 				"C:/Users/Grant Benson/OneDrive/Desktop/TGJ/SumoHockey/SumoHockey/Content/Blueprints/BP_PlayerController.uasset"
 			]
