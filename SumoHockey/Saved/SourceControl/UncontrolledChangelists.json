@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Daniel/Documents/GitHub/SumoHockey/SumoHockey/Content/Levels/AirHockeyTest.umap",
+				"C:/Users/Daniel/Documents/GitHub/SumoHockey/SumoHockey/Content/Blueprints/BP_GoalLine.uasset",
+				"C:/Users/Daniel/Documents/GitHub/SumoHockey/SumoHockey/Content/Blueprints/Widgets/WBP_MainMenu.uasset",
 				"C:/Users/mtdunni2/Documents/GitHub/SumoHockey/SumoHockey/Content/Art/Sumo/SS_SumoMan_Anim_rig_LegRaiseL.uasset",
 				"C:/Users/mtdunni2/Documents/GitHub/SumoHockey/SumoHockey/Content/Art/Sumo/SS_SumoMan-DIFFUSE.uasset",
 				"C:/Users/mtdunni2/Documents/GitHub/SumoHockey/SumoHockey/Content/Art/Sumo/SS_SumoMan_Anim_rig_Fall.uasset",
